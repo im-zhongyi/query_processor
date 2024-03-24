@@ -1,0 +1,31 @@
+24/3/2024
+add other column in excel file to test dynamically retrieve specific column
+
+10/3/2024
+2 input part (code developed):
+-query string from user
+-an excel file
+---------
+SELECT
+FROM
+JOIN
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+
+
+INPUT:
+-EXCEL FILE CONTAINING LIST OF COLUMN NAMES
+-SELECT QUERY --> STRING PROCESSING
+
+OUTPUT:
+-UPDATED QUERY BASED ON THE EXCEL FILE
+
+select ID, amount, name, payment_method from customer;
+
+--input
+C:\Users\zhongyi\Documents\DataWorkbook.xlsx
+SampleColumn.xlsx
+Sheet1
+Column name
