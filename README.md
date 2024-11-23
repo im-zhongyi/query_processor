@@ -2,3 +2,7 @@ Main.py code mainly reads a select SQL query and an excel file (i.e. Data Dictio
 Then it will compare both the query and the excel file to check whether there is any discrepancy between the query and the excel.
 
 This is specifically useful for data migration process to cross verify between the query and the documentation.
+
+
+Features to add:
+Validate the table name and columns 
